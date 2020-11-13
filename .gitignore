@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
 *.csv
 *.json
+*.ini
 DS0701EN*.ipynb
